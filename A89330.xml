@@ -1,0 +1,187 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter to General Monck, in answer to his of the 23th of January, directed to Mr. Rolle, to be communicated to the gentlemen of the county of Devon· By one of the excluded Members of Parliament.</title>
+            <author>Morris, Richard, fl. 1660.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89330</idno>
+            <idno type="STC">Wing M2809</idno>
+            <idno type="STC">Thomason E1015_1</idno>
+            <idno type="STC">ESTC R202935</idno>
+            <idno type="EEBO-CITATION">99863059</idno>
+            <idno type="PROQUEST">99863059</idno>
+            <idno type="VID">168771</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89330)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168771)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 150:E1015[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter to General Monck, in answer to his of the 23th of January, directed to Mr. Rolle, to be communicated to the gentlemen of the county of Devon· By one of the excluded Members of Parliament.</title>
+                  <author>Morris, Richard, fl. 1660.</author>
+                  <author>Albemarle, George Monck, Duke of, 1608-1670.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for R. Lowndes, at the White Lyon in S. Paul's Church-yard,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1659 [i.e. 1660]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: R.M., i.e. Richard Morris.</note>
+                  <note>A reply to: A letter of General George Monck's, dated at Leicester 23 Jan. and directed unto Mr. Rolle to be communicated unto the rest of the gentry of Devon.</note>
+                  <note>Annotation on Thomason copy: "Feb: 1.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Albemarle, George Monck, --  Duke of, 1608-1670. --  Letter of General George Monck's, dated at Leicester 23 Ian. and directed unto Mr. Rolle to be communicated unto the rest of the gentry of Devon.</term>
+               <term>Great Britain --  Politics and government --  1649-1660 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168771:1" rendition="simple:additions"/>
+            <p>A LETTER TO General Monck, In Anſwer to His of the 23<hi rend="sup">th</hi> of <hi>January,</hi> DIRECTED To Mr. <hi>ROLLE,</hi> To be communicated to the Gentlemen of the County of DEVON.</p>
+            <p>
+               <hi>By one of the</hi> EXCLUDED MEMBERS <hi>of Parliament.</hi>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>R. Lowndes,</hi> at the White Lyon in S. <hi>Paul</hi>'s Church-yard. 1659.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:168771:2"/>
+            <pb n="3" facs="tcp:168771:2"/>
+            <head>
+               <hi>A Letter to General</hi> Monck, <hi>in Anſwer to his of the</hi> 23 <hi>of</hi> January, <hi>directed to Mr.</hi> Rolle, <hi>to be com<g ref="char:EOLhyphen"/>municated to the Gentlemen of the County of</hi> Devon.</head>
+            <opener>
+               <signed>By one of the Excluded Members of <hi>Parliament.</hi>
+               </signed>
+            </opener>
+            <div type="body_of_letter">
+               <opener>
+                  <salute>SIR,</salute>
+               </opener>
+               <p>UPon reading your Letter of the 23 of January, directed to Mr. <hi>Rolle,</hi> to be communicated to the Gentlemen of <hi>Devon,</hi> I thought, that to anſwer ſome miſtakes, as it is due to the ſub<g ref="char:EOLhyphen"/>ject, ſeaſonable to the occaſion, and proper for me, (therein concerned;) ſo it cannot be ungrateful to you, if you be that lover of truth and candour, I alwayes eſteemed you, and not a perſon obſtructed with Intereſt, or engaged in Faction. With wiſe and good men, the ſhrill ſound of Trumpets doth not ſilence the whiſpers of Reaſon and Conſcience; nor the power of acting without controll, encourage them to oppreſs: And I perſwade my ſelf, that vertue and prudence will equally reſtrain you from treading in the footſteps of the Ambitious, or any other by-path, (though yet untrodden.) Give me leave, therefore, (with the freedom of an Engliſhman, and your friend) to ſhew you, That, in waving the original merit of the Cauſe, as im<g ref="char:EOLhyphen"/>pertinent, (whereas, indeed, it is onely conſiderable) You argue too much at large, and without a principle: For, be<g ref="char:EOLhyphen"/>ing once propounded, and admitted, (as it needs muſt be) That the Force upon the Parliament in 1648. was the great Breach, at which our Confuſions have entred like a Torrent; It will then follow, Not that Actions, in themſelves, unjuſti<g ref="char:EOLhyphen"/>fiable and ruinous, ought however to be juſtified, though with ruine: But that the continuance of the ſame force muſt
+<pb n="4" facs="tcp:168771:3"/>needs enlarge the Breach, level all our Fences, and let in an Ocean of Miſeries; It will not ſeem reaſonable, nor accor<g ref="char:EOLhyphen"/>ding to good Art, to skin the Wound, and make a pallia<g ref="char:EOLhyphen"/>tive Cure, but rather to ſearch the bottom, how tender ſo<g ref="char:EOLhyphen"/>ever the fleſh may there be: It will then appear, That accu<g ref="char:EOLhyphen"/>mulation of Violences is not the way of Peace. And that Errour can never become Truth by perſeverance, It will be demonſtrable, That for the <hi>minor</hi> part of the Parliament to exclude the <hi>major,</hi> in conſtituting of the Government, is to ſettle a Commonwealth upon the Baſis of a Faction: A Foundation too narrow for the Fabrick; which having no principle of ſtability within it ſelf, muſt be always ſupported with external Props. For, Sir, I dare appeal to your Rea<g ref="char:EOLhyphen"/>ſon, whether ſuch a State can ſubſiſt one hour longer, than the force continues, by which it was firſt conſtituted. Fi<g ref="char:EOLhyphen"/>nally, it will then be evident, That the danger of endleſſe Diſtractions, is more terribly threatned by the oppreſſion of thoſe, who are, without compariſon, the <hi>major</hi> part, and diſ<g ref="char:EOLhyphen"/>inheriting the Nation of its Laws and Birthright, than the diſ<g ref="char:EOLhyphen"/>obliging of ſuch as are, in reſpect of the people, very few, being ſo confeſt by the Argument it ſelf. For what makes them, with ſo much obſtinacy, decline freedome of Parlia<g ref="char:EOLhyphen"/>ment, but the conſcience of their own weakneſs, as to a le<g ref="char:EOLhyphen"/>gal civil Intereſt?</p>
+               <p>But admitting (for Arguments ſake) That the many corrupt Intereſts (now on foot) ought to over-rule that of Juſtice and Common Freedome: And that thoſe Intereſts outweigh their Oppoſites in the ballance, (whereas every man knows, they have <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nely rendred themſelves conſider<g ref="char:EOLhyphen"/>able, for the preſent, by getting the ſtart in Armour; And ſo, if ever diſarmed, muſt vaniſh of themſelves.) Yet by your favour, Sir, I marvel, you can, from thence, ſo poſi<g ref="char:EOLhyphen"/>tively conclude, That Monarchy cannot poſſibly be reſtor'd in theſe Nations: The Reaſons you alledge are two;
+<pb n="5" facs="tcp:168771:3"/>
+                  <list>
+                     <item>1. Becauſe its Support is taken away.</item>
+                     <item>2. Becauſe it is excluſive of the forementioned Intereſts, which are likewiſe twofold, Spiritual and Civil.</item>
+                  </list>
+               </p>
+               <p>For the firſt of theſe Reaſons, I think no man, of ſenſe, will deny, That the Exciſe, and Monethly Taxes (which were eſtabliſhed ſince theſe times, and wh ch probably can never ceaſe, till Freedome of Parliament be reſtored) doth farre exceed the Charge of a Court: And I doubt not but <hi>Charles Stuart</hi> would readily accept a Monethly Tax of Sixty thouſand pounds, in lieu of his former Revenue, and abate us our Exciſe: So as that Objection is ſuffici<g ref="char:EOLhyphen"/>ently anſwered, without Jealouſie given to the Purchaſors of his Lands.</p>
+               <p>For the Spiritual Intereſt, <hi>viz.</hi> Liberty of Conſcience; When I compare the great Moderation of the Church of <hi>England,</hi> in its Principle, with the preſent temper of the Age, which renders all thought of Spiritual Coertion ab<g ref="char:EOLhyphen"/>ſurd and ridiculous, and the Uniformity you mention, (in the judgement of all knowing men) impoſſible to be eſtabliſhed by Humane Endevours. I do not ſee, why we ſhould not expect as great Indulgence, under Monar<g ref="char:EOLhyphen"/>chy, and Regulated Epiſcopacy, as in a Commonwealth; And much greater than we can promiſe our ſelves either from Presbytery, or Church-Anarchy, which (by con<g ref="char:EOLhyphen"/>founding our Doctrine, deſtroying our Diſcipline, and weakning our Charity) will ſoon make way for popular Fewds and Animoſities, the moſt licentious and turbulent of all Perſecutions.</p>
+               <p>For the Civil Intereſt you mention, <hi>viz.</hi> the ſecurity of Publick Sales, (which, like a great Philiſtim, ſeems to bid defiance to our Peace<g ref="char:punc">▪</g> As, on the one ſide, our ſettlement cannot, probably, now be bought at a cheaper rate, than the ſatisfaction of the Purchaſors; ſo, on the other ſide, me<g ref="char:EOLhyphen"/>thinks, the moſt intereſſed of them might, in prudence, ra<g ref="char:EOLhyphen"/>ther
+<pb n="6" facs="tcp:168771:4"/>ſubmit to ſome abatement, to procure a legal and un<g ref="char:EOLhyphen"/>queſtionable Title, than with extreme hazard to themſelves, and ruine to their Country, maintain an Eſtate, which they can ſell to few, but Mortgage to none. Were there a mu<g ref="char:EOLhyphen"/>tual condeſcenſion herein, I ſuppoſe, there are many viſible Expedients to reconcile all pretences, and preſerve the Com<g ref="char:EOLhyphen"/>monwealth, now expoſed, as it were, to a daily <hi>Criſis:</hi> I ve<g ref="char:EOLhyphen"/>rily believe, the moſt conſiderable Freeholders in <hi>England</hi> would think it the diſcreeteſt Bargain that ever they made, if, by ſacrificing the fourth Part of their Inheritances, they might enjoy the remainder in peace, freedom and ſafety: A much leſs proportion, certainly, would do the Buſineſs. And, Sir, if you would now further ſuch an Agreement, I dare freely ſay, it would be the greateſt Victory you ever obtain<g ref="char:EOLhyphen"/>ed. We ſee, that oft-times, in private ſuits, where there is an Animoſity between the Parties, much more is ſpent, than the value of the thing Contended for: But this is farre more obſervable in Civil Diſſentions, where the Vaſt Burthen of Warre is attended with infinite hazard, and commonly ends in publick Calamities. The War of <hi>Germany,</hi> having laſted thirty Years, with utter deſolation to ſome Provinces, and exceeding great ruine to all, The ſeveral Princes, at length, bethought themſelves of a Temperament, Wherein, the diſinherited, (as it were) compounding, and the Conquerours receding, Peace was ſeaſonably reſtored, and both ſides greater gainers by their preſent loſs, than they could have been by future Victory; And, though, at firſt, the difficulties ſeemed inſuperable, Yet long ſuffering, and common Exigence had ſo diſpoſed the minds of all men concerned, that, (by admitting Ne<g ref="char:EOLhyphen"/>ceſſity, in lieu of Juſtice,) their Endevours proved very ſucceſſeful: How great a Bleſſing would it be to this Nation, if wiſdome, moderation, piety to our Country, and cha<g ref="char:EOLhyphen"/>rity to our ſelves, and each other, might produce the ſame
+<pb n="7" facs="tcp:168771:4"/>Effects with us, which miſery and woful experience extorted from them! Which, <hi>Sir,</hi> I do not onely Offer; but ear<g ref="char:EOLhyphen"/>neſtly preſs upon your Conſideration, For that, as I believe you a perſon of much integrity, and Temper, ſo, I ſup<g ref="char:EOLhyphen"/>poſe in this juncture of time, it may be in your Power to make your ſelf an Arbitrator, or at leaſt, to promote an Agreement, for which, the Ages to come will bleſs your Memory. I doubt not, but, in your Progreſs, by the pub<g ref="char:EOLhyphen"/>lick Addreſſes you have received from many Counties, the Clamours of ſome, and mutterings of all, You under<g ref="char:EOLhyphen"/>ſtand the Violent inclinations of the People, Now crying with <hi>Rachel, Give us freedome of Parliament, or we dye;</hi> It boots not therefore to alledge, That the Army will not endure it; For either that Yoak is indended to be perpetual; or not; If not, when ever it ſhall either ceaſe, or be caſt off, In comes freedome, like a torrent, and in a moment overwhelms all, that hath been Eſtabliſhed by <hi>Junto's,</hi> Whereof this very Parliament hath given a fair precedent; But, if our Yoak be intended perpetual, What tyranny like that of armed faction? What ſound ſo harſh to <hi>Engliſh</hi> ears? And who, in after-ages, will believe, that thoſe very men, who ſo branded the King, for an irregular im<g ref="char:EOLhyphen"/>peachment of five Members, and aſperſed him with the bare rumour of an intention to bring in a few <hi>German</hi> Horſe, ſhould, themſelves, continue and own the forcible excluſion of much the <hi>major</hi> part of the Parliament, and entail upon their Country an Army of Janiſſaries and Timariots; which, I am confident, if they will ſubſiſt, muſt, at leaſt, every third year, conquer it anew.</p>
+               <p>By that wiſdome, and courage, you have oft expreſſed; By your love to Juſtice, and bowels to your Countrymen; By the inſtability of humane affairs; The uncertainty of your Life, but certainty of your Account, I conjure you, not to lay the Corner-ſtone of ſuch a <hi>Babell,</hi> Whereof, it
+<pb n="8" facs="tcp:168771:5"/>were no preſumption to preſage, that it can never be per<g ref="char:EOLhyphen"/>fected, God having already ſo confounded their Languages; To whoſe holy guidance, and preventing grace, I heartily recommend you, and remain,</p>
+               <closer>
+                  <dateline>
+                     <date>
+                        <hi>Jan.</hi> 28. 1659.</date>
+                  </dateline>
+                  <salute>Sir,</salute>
+                  <signed>
+                     <hi>Your moſt faithfull and affectionate Friend and Servant,</hi>
+R. M.</signed>
+               </closer>
+            </div>
+            <div type="postscript">
+               <head>POSTSCRIPT.</head>
+               <opener>
+                  <salute>SIR,</salute>
+               </opener>
+               <p>GIve me leave to offer this Poſtſcript to your further conſidera<g ref="char:EOLhyphen"/>tion; It is manifeſt, That betwixt the Years 1643, and 1653. The great Monſter W r devoured, 1. The Benevolences of all the well affected, 2. The ſpoiles of all the Diſaffected, 3. The Annual Rents of a Conſiderable Part of the Lands in <hi>England,</hi> ſequeſtred, 4. The fifth and twentieth Part of all mens Eſtates, 5. That pro<g ref="char:EOLhyphen"/>digious Contribution of fifty ſubſides, at once, beſides many more, at other times, 6. The infinite Summes raiſed by the Compoſi<g ref="char:EOLhyphen"/>tions of many thouſands of Delinquents, 7. A conſtant Exciſe upon almoſt all Commodities, 8. The monethly Taxe, ſome<g ref="char:EOLhyphen"/>times 120000 <abbr>
+                     <hi>l.</hi>
+                  </abbr> ſeldome under 90000 <abbr>
+                     <hi>l.</hi>
+                  </abbr> 9. The Sales of Kings, Churches and forfeited Lands, And Laſtly, in effect, the whole Kingdome of <hi>Ireland;</hi> And yet, (if we may believe the innume<g ref="char:EOLhyphen"/>rable Complaints of Reformades, Widows, and Lenders,) the publick faith, very lamely aſſerted; As evident it is, that the late <hi>Protector,</hi> continuing the ſame butthens and, otherwiſe, practiſing all the ſubtilties of a Tyrant, in wracking the People; Yet, in four, or five years time, contracted a Ruinous and incredi<g ref="char:EOLhyphen"/>ble debt; The ſame forces are ſtill continued, And, probably, muſt encreaſe, in meaſure, as our diſſatisfa<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ions multiply; There are, now, no conſiderable Eſtates, left, to ſequeſter, Delinquents to compound, or publick Lands to ſell; The Common-wealth vaſtly endebted, The treaſury exhauſted, Trade declining, Cuſtomes ſinking, All future Contributions muſt, of neceſſity, be forced out of the very bowels of a poor, enſlaved, exaſperated, and ſtarving people; The perpetuating whereofs by our ſervitude, Whether it be fit, or juſt, or ſafe, or, indeed, poſſible, I leave you to judge.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
